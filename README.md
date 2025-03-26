@@ -1,6 +1,9 @@
 # SubgroupBoost
 
-This tutorial guides users through using our package SubgroupBoost to identify treatment performing and non-performing subgroups. 
+This tutorial guides users through using our package SubgroupBoost to identify treatment performing and non-performing subgroups. The method is based on the following papers
+* Zhang P, Ma J, Chen X, Shentu Y. A nonparametric method for value function guided subgroup identification via gradient tree boosting for censored survival data. Stat Med. 2020 Dec 10;39(28):4133-4146.
+
+* Zhang, P., Liu, P., Ma, J., & Shentu, Y. (2021). Value Function Guided Subgroup Identification via Gradient Tree Boosting: A Framework to Handle Multiple Outcomes for Optimal Treatment Recommendation. Statistics in Biopharmaceutical Research, 14(4), 523–531.
 
 ## Installation
 
